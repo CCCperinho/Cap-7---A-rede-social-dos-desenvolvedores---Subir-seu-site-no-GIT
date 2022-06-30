@@ -1,0 +1,99 @@
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 0.9rem;
+    background-color: #61BC60;
+    background: -moz-linear-gradient(#61BC60,#61BC60,#4B8E52,#96e49b,#c3d6c3);
+}
+
+header {
+    text-align: center;
+    padding-top: 3rem;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-bottom: 2rem;
+    margin-right: 4rem;
+}
+
+.main-div {
+    padding-top: 1rem;
+    width:30rem;
+    height: 15rem;
+    background-color:#dddd;
+    border-radius: 0.5rem;
+    width: 25%;
+    margin-left: 30rem;
+    padding-bottom: 5rem;
+}
+
+.itens ul {
+    display: flex;
+    align-items: center;
+    background-color: #aaaa;
+    padding-bottom: 1.5rem;
+    border-radius: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    height: 0.8rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    padding-right: 20rem;
+
+}
+
+.itens ul li {
+    text-align: center;
+    padding-left: 4rem;
+    margin-top: 2rem;
+}
+
+.cartao {
+    display: flex;
+    text-align: center;
+    background-color: #bbbb;
+    padding-bottom: 1.5rem;
+    border-radius: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+    padding-left: 3rem;
+    padding-top: 0.8rem;
+    height: 0.1rem;
+    
+}
+
+.lis {
+    display: flex;
+    text-align: center;
+    background-color: #bbbb;
+    padding-bottom: 1.5rem;
+    border-radius: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    padding-left: 3rem;
+    padding-top: 0.8rem;
+    height: 0.1rem;
+}
+
+.cesta-produto {
+    display: flex;
+    text-align: center;
+    background-color: #bbbb;
+    padding-bottom: 1.5rem;
+    border-radius: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-top: 1rem;
+    padding-left: 3rem;
+    padding-top: 0.8rem;
+    height: 0.1rem;
+
+}
+
+footer nav img {
+    align-items: center;
+    padding-left: 30rem;
+    width: 21.5rem;
+}

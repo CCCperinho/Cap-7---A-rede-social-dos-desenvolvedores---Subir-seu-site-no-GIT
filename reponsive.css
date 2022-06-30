@@ -1,0 +1,170 @@
+@media(max-width: 1240px) {
+    header {
+        max-width: 49%;
+        text-align: center;
+        padding-left: 38rem;
+        inline-size: max-content;
+    }
+    
+    .main-area{
+        width: 38%;
+    }
+    
+    .btn-primary {
+        width: 10%;
+        display: inline-block;
+        margin-left: 15rem;
+    }
+
+    .btn-registro {
+        width: 10%;
+        display: inline-block;
+        
+    }
+
+    .recuperar-senha {
+        display: inline-block;
+        text-align: center;
+        inline-size: max-content;
+    }
+
+    .recuperar a {
+        margin-right: 50rem;
+    }
+    }
+    @media(max-width: 1115px) {
+        .btn-primary {
+            width: 10%;
+            margin-left: 12rem;
+        }
+    }
+    
+    @media(max-width: 980px) {
+        .btn-primary {
+            width: 10%;
+            margin-left: 10rem;
+        }
+
+        .recuperar a {
+            margin-right: 50rem;
+        }
+    
+    }
+
+
+    @media(max-width: 768px) {
+        header {
+            max-width: 49%;
+            text-align: center;
+            padding-left: 38rem;
+            inline-size: max-content;
+        }
+            
+        
+        .main-area{
+            width: 38%;
+            
+        }
+        
+        .btn-primary {
+            width: 10%;
+            display: inline-block;
+            margin-left: 8rem;
+        }
+    
+        .btn-registro {
+            width: 10%;
+            display: inline-block;
+            
+        }
+    
+        .recuperar-senha {
+            display: inline-block;
+            text-align: center;
+            inline-size: max-content;
+        }
+    
+        .recuperar a {
+            margin-right: 50rem;
+        }
+    }    
+    
+    @media(max-width: 600px) {
+        header {
+            max-width: 49%;
+            text-align: center;
+            padding-left: 38rem;
+            inline-size: max-content;
+        }
+            
+        
+        .main-area{
+            width: 38%;
+            
+        }
+        
+        .btn-primary {
+            width: 10%;
+            display: inline-block;
+            margin-left: 8rem;
+        }
+    
+        .btn-registro {
+            width: 10%;
+            display: inline-block;
+            
+        }
+    
+        .recuperar-senha {
+            display: inline-block;
+            text-align: center;
+            inline-size: max-content;
+        }
+    
+        .recuperar a {
+            margin-right: 50rem;
+        }
+    }    
+    
+    @media(max-width: 480px) {
+    
+        html {
+            font-size: 55%;
+        }
+    
+        header {
+            max-width: 49%;
+            text-align: center;
+            padding-left: 38rem;
+            inline-size: max-content;
+        }
+            
+        
+        .main-area{
+            width: 38%;
+            
+        }
+        
+        .btn-primary {
+            width: 10%;
+            display: inline-block;
+            margin-left: 8rem;
+        }
+    
+        .btn-registro {
+            width: 10%;
+            display: inline-block;
+            
+        }
+    
+        .recuperar-senha {
+            display: inline-block;
+            text-align: center;
+            inline-size: max-content;
+        }
+    
+        .recuperar a {
+            margin-right: 50rem;
+        }
+    
+    }
